@@ -1,5 +1,5 @@
 # The-Odin-Project
 
-Exercises and projects from the Odin project ( https://www.theodinproject.com/paths )
+This is my first github push for the Odin Project. ( https://www.theodinproject.com/paths )
 
 # Hello Odin!
