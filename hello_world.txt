@@ -1,5 +1,5 @@
 Hello World!
 
-My name is Rishav Gayen and this repository will be home to the assignments, projects and exercises of The Odin Project. 
+My name is Rishav Gayen and this is my first github commit for the Odin project and I'm excited to do the assignments, projects and exercises of The Odin Project. 
 
 I'm really excited to embark on the journey to master Web development.
