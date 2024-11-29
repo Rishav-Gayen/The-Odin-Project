@@ -1,0 +1,5 @@
+Hello World!
+
+My name is Rishav Gayen and this repository will be home to the assignments, projects and exercises of The Odin Project. 
+
+I'm really excited to embark on the journey to master Web development.
